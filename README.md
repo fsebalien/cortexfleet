@@ -18,7 +18,8 @@ Automated Scenerio:
 
 - To run only tagged Regression case (happy path) at your local environment, please run the commands below;
 
-```mvn test -Dcucumber.options="--tags @Regression"```
+```mvn test -Dcucumber.options="--tags @UIRegression"```
+```mvn test -Dcucumber.options="--tags @BERegression"```
 
 - After the maven build success, Cucumber Html Report will be added into target directory.
 
