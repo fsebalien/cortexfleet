@@ -1,6 +1,5 @@
 # CortexFleet Automation Case Study
 
-- Integration test of a JSON API for HTTP Status Control
 - Web Test Automation Scenerio with Selenium, Java & Cucumber on Maven framework
 
 Automated Scenerio: 
