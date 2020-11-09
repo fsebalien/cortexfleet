@@ -11,10 +11,10 @@ import org.openqa.selenium.By;
 import org.testng.Assert;
 
 public class LoginUIStepdefs {
-    @Before
+/*    @Before
     public void beforeTest() {
         Base.beforeTest("Chrome");
-    }
+    }*/
 
     @Given("^Enter the page \"([^\"]*)\"$")
     public void enterThePage(String url) throws Throwable {
